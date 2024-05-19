@@ -1,4 +1,7 @@
-# AI Commerce Automation
+# AI E-Commerce Automation Website for a Fashion Shop (name: Fashion Girl)
+
+# MS23466012 K W R C W A M G S Koswatta
+# MS23478992 K M T S Weearathna
 
 Welcome to the AI Commerce Automation repository! 🚀
 
