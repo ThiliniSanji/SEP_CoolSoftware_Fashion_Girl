@@ -35,18 +35,6 @@ Benefits:
 - Improved User Experience: Provides a more intuitive way to search for visual items.
 - Accessibility: Can be helpful for users who have difficulty describing products in words.
 
-## Getting Started
-
-To use AI Commerce Automation, follow these simple steps:
-
-1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/isuru0x01/AI-Driven-Ecommerce.git`.
-
-3. **Configure Settings:** Rename the sample.env to .env and add required APIs.
-
-4. **Run the Application:** Start the application by running `docker compose up --build` and access it via your web browser.
-
-5. **Explore and Customize:** Explore the features of AI Commerce Automation and customize them to suit your specific needs. Don't hesitate to experiment and innovate!
-
 ## Contributing
 
 We welcome contributions from the community to enhance AI Commerce Automation further. Whether it's adding new features, fixing bugs, or improving documentation, your contributions are invaluable.
@@ -55,8 +43,5 @@ We welcome contributions from the community to enhance AI Commerce Automation fu
 
 If you encounter any issues or have any questions, feel free to reach out to us or open an issue in the repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
